@@ -1,0 +1,6 @@
+framework module CVCocoaHTTPServeriOS {
+  umbrella header "CVCocoaHTTPServeriOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
